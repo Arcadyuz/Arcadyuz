@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arcadyuz
-- 👀 I’m interested in learning C++,HTML,CSS,SQL
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in learning C++,HTML,CSS,SQL,REACT, NODE,MONGODB,etc
+- 🌱 I’m currently learning web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
